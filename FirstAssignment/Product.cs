@@ -10,8 +10,8 @@ namespace FirstAssignment
     {
         private int _id;
         private string _description;
-        private int _cost;
-        private int _price;
+        private decimal _cost;
+        private decimal _salePrice;
         private int _stock;
         private int _userId;
 
