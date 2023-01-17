@@ -12,6 +12,8 @@ namespace FirstAssignment
         private string _firstName;
         private string _lastName;
         private string _email;
+        private string _password;
+        private string _userName;
 
     }
 }
